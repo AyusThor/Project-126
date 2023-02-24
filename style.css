@@ -1,0 +1,26 @@
+.heading
+{
+    font-size: 50px;
+    color: #FFF01F;
+    background-color: black;
+    width: 100%;
+    margin-top: 0px;
+    box-shadow: 5px 5px 5px #BC13FE;
+}
+
+.note
+{
+    color: white;
+    font-size: 25px;
+}
+
+body
+{
+    background-size: cover;
+}
+
+canvas
+{
+    border: 15px;
+    box-shadow: 5px 5px 5px gold;
+}
